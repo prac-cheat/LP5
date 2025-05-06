@@ -19,10 +19,10 @@ prediction problem by Linear regression using Deep Neural network. Use Boston Ho
 prediction dataset.
       </li>
       <li>
-            2.  Classification using Deep neural network (Any One from the following) <br>
+            2.  Classification using Deep neural network (Any One from the following) 
             <ol>
                   <li>
-                       Multiclass classification using Deep Neural Networks: Example: Use the OCR letter 
+                  Multiclass classification using Deep Neural Networks: Example: Use the OCR letter 
 recognition dataset https://archive.ics.uci.edu/ml/datasets/letter+recognition 
                   </li>
                   <li>
