@@ -18,12 +18,22 @@ existing algorithms and measure the performance of sequential and parallel algor
 prediction problem by Linear regression using Deep Neural network. Use Boston House price 
 prediction dataset.
       </li>
-2.  Classification using Deep neural network (Any One from the following) <br>
-2.1. Multiclass classification using Deep Neural Networks: Example: Use the OCR letter 
+      <li>
+            2.  Classification using Deep neural network (Any One from the following) <br>
+            <ol>
+                  <li>
+                       Multiclass classification using Deep Neural Networks: Example: Use the OCR letter 
 recognition dataset https://archive.ics.uci.edu/ml/datasets/letter+recognition 
-2.2. Binary classification using Deep Neural Networks Example: Classify movie reviews into 
+                  </li>
+                  <li>
+                  Binary classification using Deep Neural Networks Example: Classify movie reviews into 
 positive" reviews and "negative" reviews, just based on the text content of the reviews. 
-Use IMDB dataset 
+Use IMDB dataset
+                  </li>
+            </ol>
+
+      </li>
+
 3.  Convolutional neural network (CNN) (Any One from the following) <br>
  Use any dataset of plant disease and design a plant disease detection system using CNN. 
  Use MNIST Fashion Dataset and create a classifier to classify fashion clothing into 
