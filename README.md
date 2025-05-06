@@ -12,9 +12,12 @@ existing algorithms and measure the performance of sequential and parallel algor
 5. Implement HPC application for AI/ML domain.<br>
 
 ## DL
-1.  Linear regression by using Deep Neural network: Implement Boston housing price 
+<ol>
+      <li>
+            Linear regression by using Deep Neural network: Implement Boston housing price 
 prediction problem by Linear regression using Deep Neural network. Use Boston House price 
-prediction dataset. <br>
+prediction dataset.
+      </li>
 2.  Classification using Deep neural network (Any One from the following) <br>
 2.1. Multiclass classification using Deep Neural Networks: Example: Use the OCR letter 
 recognition dataset https://archive.ics.uci.edu/ml/datasets/letter+recognition 
@@ -27,3 +30,4 @@ Use IMDB dataset
 categories. 
 4.  Recurrent neural network (RNN) Use the Google stock prices dataset and design a time 
 series analysis and prediction system using RNN. <br>
+</ol>
