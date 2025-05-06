@@ -33,6 +33,7 @@ Use IMDB dataset
             </ol>
 
       </li>
+      <li>
 
 3.  Convolutional neural network (CNN) (Any One from the following) <br>
  Use any dataset of plant disease and design a plant disease detection system using CNN. 
